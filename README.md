@@ -177,33 +177,6 @@ Currently focusing on building production-ready software while deepening experti
 
 ---
 
-# 📚 Learning Roadmap
-
-```text
-✅ Java
-✅ Spring Boot
-✅ Spring Security
-✅ React
-✅ Next.js
-✅ PostgreSQL
-✅ MongoDB
-✅ TypeScript
-✅ REST APIs
-✅ JWT Authentication
-
-🔄 Docker
-🔄 CI/CD
-🔄 Design Patterns
-🔄 Microservices
-🔄 Kubernetes
-
-🎯 Cloud Architecture
-🎯 Distributed Systems
-🎯 Event-Driven Architecture
-```
-
----
-
 # 📈 What I'm Looking For
 
 I'm interested in opportunities where I can:
